@@ -1,2 +1,2 @@
 # FOREST_FIRE_DETECTION
-This project aims to develop a deep learning model for classifying images of wildfires. It uses a dataset of wildfire images, likely containing images with and without wildfires.
+This project aims to develop a deep learning model for classifying images of wildfires. It uses a dataset of wildfire images, likely containing images with and without wildfires. The project's goal is to create a model that can accurately classify images based on the presence or absence of wildfires, or potentially even the type or severity of the wildfire. This could have practical applications in early wildfire detection and monitoring systems.
